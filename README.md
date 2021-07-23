@@ -16,6 +16,3 @@
 ![Prototype2](https://github.com/render41/GameJam_20210723/blob/main/ImgPrototipo/Prototype2.jpg)
 
 ![Prototype3](https://github.com/render41/GameJam_20210723/blob/main/ImgPrototipo/Prototype3.jpg)
-=======
-![](https://github.com/render41/GameJam_20210723/blob/main/Prototype.png)
->>>>>>> a5b34ed70191b7bd92f70fe3f5a37360af63b504
