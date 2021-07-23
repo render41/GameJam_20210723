@@ -8,4 +8,4 @@
 
 **Vasos Sanguíneos:** Artéria (Estrada)
 
-![](D:\Documents\Projetos\Faculdade\GameJam\GameJam_20210723\Prototype.png)
+![](https://github.com/render41/GameJam_20210723/blob/main/Prototype.png)
