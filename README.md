@@ -4,6 +4,7 @@
 **Modelo de Arte:** Pixel Art </br>
 **Peças do cenário:** Pulmão, rim, coração, figado (Objetos para defender) </br>
 **Caminho:** Artéria (Estrada) </br>
+**Inimigos:** Perseguir o player e perseguir o prédio órgão. </br>
 
 ### Imagens de Protótipos:
 
