@@ -2,7 +2,7 @@
 
 **Ideias:** Jogo Top-Down, hordas de inimigos
 **Modelo de Arte:** Pixel Art
-**Peças do cenário:** Pulmão, rim, coração, figado (Objetos para defender)
+**Peças do cenário:** Pulmão, rim, coração, figado (Objetos para defender) </br>
 **Caminho:** Artéria (Estrada)
 
 ### Imagens de Protótipos:
