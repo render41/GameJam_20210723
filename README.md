@@ -1,9 +1,9 @@
 # **Game Jam 23/07/2021**
 
-**Ideias:** Jogo Top-Down, hordas de inimigos
-**Modelo de Arte:** Pixel Art
+**Ideias:** Jogo Top-Down, hordas de inimigos </br>
+**Modelo de Arte:** Pixel Art </br>
 **Peças do cenário:** Pulmão, rim, coração, figado (Objetos para defender) </br>
-**Caminho:** Artéria (Estrada)
+**Caminho:** Artéria (Estrada) </br>
 
 ### Imagens de Protótipos:
 
