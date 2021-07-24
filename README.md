@@ -1,14 +1,12 @@
 # **Game Jam 23/07/2021**
 
-**Ideias:** Jogo Top-Down, hordas de inimigos
+**Ideias:** Jogo Top-Down, hordas de inimigos </br>
+**Modelo de Arte:** Pixel Art </br>
+**Peças do cenário:** Pulmão, rim, coração, figado (Objetos para defender) </br>
+**Caminho:** Artéria (Estrada) </br>
+**Inimigos:** Perseguir o player e perseguir o prédio órgão. </br>
 
-**Modelo de Arte:** Pixel Art
-
-**Órgãos:** Pulmão, rim, coração, figado (Objetos para defender)
-
-**Vasos Sanguíneos:** Artéria (Estrada)
-
-### Protótipos:
+### Imagens de Protótipos:
 
 ![](https://github.com/render41/GameJam_20210723/blob/main/ImgPrototipo/Prototype1.png)
 
