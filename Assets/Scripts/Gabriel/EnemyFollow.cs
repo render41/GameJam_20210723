@@ -8,7 +8,7 @@ public class EnemyFollow : MonoBehaviour
     private Transform playerPrefab;
 
     [SerializeField] private byte speedMovement;
-    [SerializeField] private byte life;
+    public byte life;
     #endregion
 
     #region Mono
@@ -60,6 +60,17 @@ public class EnemyFollow : MonoBehaviour
     private void MoveCharacter(Vector2 direction)
     {
         this.rb.MovePosition((Vector2)this.transform.position + (direction * this.speedMovement * Time.deltaTime));
+    }
+    #endregion
+
+    #region Reduce Life
+    /// <summary>
+    /// this method is responsible for decreasing the enemy's life
+    /// </summary>
+    /// <param name="valueDamage"></param>
+    public void ReduceLife(byte valueDamage)
+    {
+        this.life -= valueDamage;
     }
     #endregion
 

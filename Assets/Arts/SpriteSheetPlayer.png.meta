@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: c7049dd84f82db74b9d06b8ef5e95ffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9032486132571818235
+    second: "Sprite Sheet Gl\xF3bulo Branco_0"
+  - first:
+      213: -2838795965335886905
+    second: "Sprite Sheet Gl\xF3bulo Branco_1"
+  - first:
+      213: 226746774891666925
+    second: "Sprite Sheet Gl\xF3bulo Branco_2"
+  - first:
+      213: -8509647486801850782
+    second: "Sprite Sheet Gl\xF3bulo Branco_3"
+  - first:
+      213: -7392270434179133313
+    second: "Sprite Sheet Gl\xF3bulo Branco_4"
+  - first:
+      213: -3684196119112002607
+    second: "Sprite Sheet Gl\xF3bulo Branco_5"
+  - first:
+      213: 2827403220113920632
+    second: "Sprite Sheet Gl\xF3bulo Branco_6"
+  - first:
+      213: 6391332220491533669
+    second: "Sprite Sheet Gl\xF3bulo Branco_7"
+  - first:
+      213: -1102595015607861123
+    second: "Sprite Sheet Gl\xF3bulo Branco_8"
+  - first:
+      213: 7587109142779051894
+    second: "Sprite Sheet Gl\xF3bulo Branco_9"
+  - first:
+      213: 6361735935354180397
+    second: "Sprite Sheet Gl\xF3bulo Branco_10"
+  - first:
+      213: 8189477378680938588
+    second: "Sprite Sheet Gl\xF3bulo Branco_11"
+  - first:
+      213: -8123225891629498801
+    second: "Sprite Sheet Gl\xF3bulo Branco_18"
+  - first:
+      213: 6086151980573544312
+    second: "Sprite Sheet Gl\xF3bulo Branco_20"
+  - first:
+      213: -600892943265334923
+    second: "Sprite Sheet Gl\xF3bulo Branco_22"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5073a65f7b926a280800000000000000
+      internalID: -9032486132571818235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_1"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a7503c129a98d0800000000000000
+      internalID: -2838795965335886905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_2"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded126b8df0952300800000000000000
+      internalID: 226746774891666925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_3"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e416162b8a7e980800000000000000
+      internalID: -8509647486801850782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_4"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70512fb431696990800000000000000
+      internalID: -7392270434179133313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_5"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 153
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d47d362b1fdcc0800000000000000
+      internalID: -3684196119112002607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8729fab9f34fc3720800000000000000
+      internalID: 2827403220113920632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_7"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d08e3bac292b850800000000000000
+      internalID: 6391332220491533669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_8"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c393dcabc2b0f0800000000000000
+      internalID: -1102595015607861123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_9"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb67f2193da4960800000000000000
+      internalID: 7587109142779051894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_10"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 102
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239f95902d694850800000000000000
+      internalID: 6361735935354180397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_11"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 102
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ef54494ed6a170800000000000000
+      internalID: 8189477378680938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_18"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 21
+        width: 44
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4efa2b1711844f80800000000000000
+      internalID: -8123225891629498801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_20"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f40230bfa567450800000000000000
+      internalID: 6086151980573544312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite Sheet Gl\xF3bulo Branco_22"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57971a04d0339a7f0800000000000000
+      internalID: -600892943265334923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
