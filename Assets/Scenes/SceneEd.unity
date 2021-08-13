@@ -330,6 +330,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 824896caf3d2ae14baec98d8fb1d6e31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveSpeed: 5
+  direction: {x: 0, y: 0, z: 0}
   attackRadius: 0.5
   attackArea: {fileID: 349030635}
   isEminem:

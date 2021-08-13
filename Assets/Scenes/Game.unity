@@ -628,7 +628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 2
   direction: {x: 0, y: 0, z: 0}
-  attackRadius: 0.5
+  attackRadius: 0.2
   attackArea: {fileID: 8342173934062263720}
   isEminem:
     serializedVersion: 2
